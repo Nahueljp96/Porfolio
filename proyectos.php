@@ -43,31 +43,59 @@
     </header>
     <main class="container">
         <div class="row">
-            <div class="col 12 pt-3 pb-5">
+            <div class="col-12 pt-3 pb-5">
                 <h1>Proyectos</h1>
             </div>
         </div>
         <div class="row"> <!--Row es para indicar una nueva fila!-->
-            <div class="col 12">
+            <div class="col-12">
                 <p>Los siguientes son unos de los trabajos que he realizado:</p>
             </div>
         </div>
         <div class="row">
-            <div class="col 12 col-sm4 proyecto">
-                <img src="../portfolio/images/abmclientes.png" alt="ABM Clientes" class="img-fluid">
-                <div>
+            <div class="col-12 col-sm-4 p-3">
+                <div class="proyecto">
+                    <img src="../portfolio/images/abmclientes.png" alt="ABM Clientes" class="img-fluid">
                     <h2 class="p-3 d-block">ABM Clientes</h2>
-                    <p>Alta,baja y modificación de un registro de clientes. Realizado en HTML,CCS,Boostrap y Json.</p>
+                    <p class="p-3 pb-5 d-block">Alta, baja y modificación de un registro de clientes. Realizado en HTML,CSS,PHP,Boostrap y Json. </p>
+                    <div class="row my-5">
+                        <div class="col-6 ps-4">
+                            <a href="" target="b_blank" class="btn btn-rojo"> Ver Online</a>
+                        </div>
+                        <div class="col-6 text-center">
+                            <a href="" target="b_blank">Codigo fuente</a>
+                        </div>
+                    </div>
                 </div>
             </div>
-            <div class="col 12 col-sm4 proyecto">
-                <div>
-                   B
+            <div class="col-12 col-sm-4 p-3">
+                <div class="proyecto">
+                    <img src="../portfolio/images/abmventas.png" alt="ABM Clientes" class="img-fluid">
+                    <h2 class="p-3 d-block">Sistema de Gestión de Ventas</h2>
+                    <p class="p-3 pb-1 d-block"> Sistema de gestión de clientes,productos y ventas.Realizado en HTML, CSS,PHP,MVC,Boostrap,Js,Ajax,jQuery y MySQL de base de datos.</p>
+                    <div class="row my-5">
+                        <div class="col-6 ps-4">
+                            <a href="" target="b_blank" class="btn btn-rojo"> Ver Online</a>
+                        </div>
+                        <div class="col-6 text-center">
+                            <a href="" target="b_blank">Codigo fuente</a>
+                        </div>
+                    </div>
                 </div>
-            </div>
-            <div class="col 12 col-sm4">
-                <div>
-                    C
+            </div> 
+            <div class="col-12 col-sm-4 p-3">
+                <div class="proyecto">
+                    <img src="../portfolio/images/abmclientes.png" alt="ABM Clientes" class="img-fluid">
+                    <h2 class="p-3 d-block">Proyecto Integrador</h2>
+                    <p class="p-2 pb-2 d-block">Proyecto Full Stack desarrollado en PHP, Laravel, Javascript,jQuery, AJAX, HTML,CSS,Mercadopago con panel administrador,gestor de usuarios,módulo de permisos y funcionalidades a fines.</p>
+                    <div class="row my-5">
+                        <div class="col-6 ps-4">
+                            <a href="" target="b_blank" class="btn btn-rojo"> Ver Online</a>
+                        </div>
+                        <div class="col-6 text-center">
+                            <a href="" target="b_blank">Codigo fuente</a>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
