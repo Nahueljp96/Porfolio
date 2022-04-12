@@ -22,16 +22,16 @@
                 <div class="collapse navbar-collapse" id="navbarCollapse">
                     <ul class="navbar-nav me-auto mb-2 mb-md-0">
                         <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" href="index.php">Inicio</a>
+                            <a class="nav-link py-1 px-3 px-sm-4" aria-current="page" href="index.php">Inicio</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="sobre-mi.php">Sobre Mí</a>
+                            <a class="nav-link py-1 px-3 px-sm-4" href="sobre-mi.php">Sobre Mí</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="proyectos.php">Proyectos</a>
+                            <a class="nav-link py-1 px-3 px-sm-4 active" href="proyectos.php">Proyectos</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="contacto.php">Contacto</a>
+                            <a class="nav-link py-1 px-3 px-sm-4" href="contacto.php">Contacto</a>
                         </li>
                     </ul>
                     <div class="d-flex">
@@ -70,9 +70,9 @@
             </div>
             <div class="col-12 col-sm-4 p-3">
                 <div class="proyecto">
-                    <img src="../portfolio/images/abmventas.png" alt="ABM Clientes" class="img-fluid">
+                    <img src="../portfolio/images/abmventas.png" alt="Sistema de Gestión de Ventas" class="img-fluid">
                     <h2 class="p-3 d-block">Sistema de Gestión de Ventas</h2>
-                    <p class="p-3 pb-1 d-block"> Sistema de gestión de clientes,productos y ventas.Realizado en HTML, CSS,PHP,MVC,Boostrap,Js,Ajax,jQuery y MySQL de base de datos.</p>
+                    <p class="p-3 pb-5 d-block"> Sistema de gestión de clientes,productos y ventas.Realizado en HTML, CSS,PHP,MVC,Boostrap,Js,Ajax,jQuery y MySQL de base de datos.</p>
                     <div class="row my-5">
                         <div class="col-6 ps-4">
                             <a href="" target="b_blank" class="btn btn-rojo"> Ver Online</a>
@@ -85,9 +85,9 @@
             </div> 
             <div class="col-12 col-sm-4 p-3">
                 <div class="proyecto">
-                    <img src="../portfolio/images/abmclientes.png" alt="ABM Clientes" class="img-fluid">
+                    <img src="../portfolio/images/proyecto-integrador.png" alt="Proyecto Integrador" class="img-fluid">
                     <h2 class="p-3 d-block">Proyecto Integrador</h2>
-                    <p class="p-2 pb-2 d-block">Proyecto Full Stack desarrollado en PHP, Laravel, Javascript,jQuery, AJAX, HTML,CSS,Mercadopago con panel administrador,gestor de usuarios,módulo de permisos y funcionalidades a fines.</p>
+                    <p class="p-3 pb-5 d-block">Proyecto Full Stack desarrollado en PHP, Laravel, Javascript,jQuery, AJAX, HTML,CSS,Mercadopago con panel administrador,gestor de usuarios,módulo de permisos y funcionalidades a fines.</p>
                     <div class="row my-5">
                         <div class="col-6 ps-4">
                             <a href="" target="b_blank" class="btn btn-rojo"> Ver Online</a>
@@ -107,8 +107,8 @@
                 <i class="fa-brands fa-github"></i>
                 <i class="fa-brands fa-linkedin-in"></i>
             </div>
-            <div class="col-3">Sponsor <a href="https://depcsuite.com">DePc Suite</a></div>
-            <div class="col-3"> <a href="mailto:nahuel5831@gmail.com"></a>nahuel5831@gmail.com</a></div>
+            <div class="col-3 lit">Sponsor <a href="https://depcsuite.com">DePc Suite</a></div>
+            <div class="col-3" class="lit"> <a href="mailto:nahuel5831@gmail.com"></a>nahuel5831@gmail.com</a></div>
             
 
         </div>

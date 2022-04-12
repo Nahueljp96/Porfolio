@@ -2,6 +2,16 @@
 body {
     font-family: 'Montserrat', sans-serif;
 }
+#index{
+    background-image: url(../images/fondo-contacto.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+#sobre-mi{
+    background-image: url(../images/fondo-proyectos.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
 #contacto{  
     background-image:url(../images/fondo-contacto.png) ;
     background-repeat: no-repeat;
@@ -13,6 +23,14 @@ body {
     background-repeat: no-repeat;
     background-size: 100%;
     /* linea 6 imagen, linea 7 para que figure junto a linea 8, sino no se visualiza la imagen */
+}
+nav .nav-link{
+    color: #282828;
+}
+nav .active{
+    border: 1px solid #E20000;
+    border-radius: 25px;
+
 }
 h1{
     color: #E20000;
@@ -30,6 +48,9 @@ footer,footer a{
     font-weight: 100;
     
 }
+.sobre-mi-footer {
+    color:#E20000;
+}
 .form-control{
     border-radius: 14px;
 }
@@ -46,6 +67,14 @@ footer,footer a{
 .proyecto a{
     color:#E20000;
 }
+.proyecto img{
+    height: 200px;
+}
+.proyecto p{
+    font-size: 14px;
+    height: 148px;
+}
+
 .btn-blanco{
     background-color: white;
     color: #370a6d;
@@ -79,6 +108,13 @@ footer,footer a{
     font-size:32px;
     color:white
 }
-
+@media (max-width: 750px){
+    #contacto{
+        background-image: url('../images/fondo-proyectos.png');
+        background-repeat: no-repeat;
+        background-size: 100%;
+    }
 
 }
+
+
