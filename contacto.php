@@ -89,8 +89,6 @@
             </div>
             <div class="col-3">Sponsor <a href="https://depcsuite.com">DePc Suite</a></div>
             <div class="col-3"> <a href="mailto:nahuel5831@gmail.com">nahuel5831@gmail.com</a></div>
-            
-
         </div>
 
     </footer>

@@ -191,7 +191,33 @@ footer,footer a{
 }
 .btn{
     border-radius: 14px;
+    
 }
+#inicio .input-home p {
+    color: white;
+    font-size: 23px;
+    border: 1px solid white;
+    border-radius: 50px;
+    font-weight: 600;
+}
+#inicio .div-pc{
+    height: 410px;
+}#inicio .pc{
+    height: 400px;
+}
+#inicio .pc:hover{
+    height: 410px;
+}
+#inicio .btn{
+    color: #370a6d;
+    background-color: white;
+    border: none;
+}
+#inicio .btn:hover{
+    color: white;
+    background-color: #370a6d;
+}
+
 .whatsapp{
     position: fixed;/* es para que quede fijo */
     right: 70px;;

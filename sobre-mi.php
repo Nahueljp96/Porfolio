@@ -282,10 +282,7 @@
             </div>
             <div class="col-3 lit">Sponsor <a href="https://depcsuite.com"class="link-info">DePc Suite</a></div>
             <div class="col-3" class="lit"> <a href="mailto:nahuel5831@gmail.com">nahuel5831@gmail.com</a></div>
-            
-
         </div>
-
     </footer>
     <div class="whatsapp pt-3 pb-3 px-3">
         <a href="http://api.whatsapp.com/send?phone=542215023514">
