@@ -13,7 +13,7 @@
 </head>
 <body id="proyectos">
     <header class="container">
-        <nav class="navbar navbar-expand-md  mb-4">
+        <nav class="navbar navbar-expand-md  mb-4"> <!-- menu armado y estilo de boostrap-->
             <div class="container-fluid">
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse"
                     aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
@@ -47,12 +47,12 @@
                 <h1>Proyectos</h1>
             </div>
         </div>
-        <div class="row"> <!--Row es para indicar una nueva fila!-->
+        <div class="row"> 
             <div class="col-12">
                 <p>Los siguientes son unos de los trabajos que he realizado:</p>
             </div>
         </div>
-        <div class="row">
+        <div class="row"> <!-- fila de las cajas y comienza la forma de realizarlas-->
             <div class="col-12 col-sm-4 p-3">
                 <div class="proyecto">
                     <img src="../portfolio/images/abmclientes.png" alt="ABM Clientes" class="img-fluid">
@@ -66,7 +66,7 @@
                             <a href="" target="b_blank">Codigo fuente</a>
                         </div>
                     </div>
-                </div>
+                </div> <!-- 56 a linea 69 forma de hacer una caja + boton, los div empujan otros divs para que quede funcional-->
             </div>
             <div class="col-12 col-sm-4 p-3">
                 <div class="proyecto">
@@ -101,20 +101,20 @@
         </div>
 
     </main>
-    <footer class="container mt-5">
+    <footer class="container mt-5"> <!-- Falta colocar los links de git y linkedin una vez perfeccionados-->
         <div class="row">
             <div class="col-3">
                 <i class="fa-brands fa-github"></i>
                 <i class="fa-brands fa-linkedin-in"></i>
             </div>
             <div class="col-3 lit">Sponsor <a href="https://depcsuite.com">DePc Suite</a></div>
-            <div class="col-3" class="lit"> <a href="mailto:nahuel5831@gmail.com"></a>nahuel5831@gmail.com</a></div>
+            <div class="col-3" class="lit"> <a href="mailto:nahuel5831@gmail.com">nahuel5831@gmail.com</a></div>
             
 
         </div>
 
     </footer>
-    <div class="whatsapp pt-3 pb-3 px-3">
+    <div class="whatsapp pt-3 pb-3 px-3"> <!-- Forma de colocar link de wsp + clase de boostrap-->
         <a href="http://api.whatsapp.com/send?phone=542215023514">
         <i class="fa-brands fa-whatsapp"></i></a>
     </div>

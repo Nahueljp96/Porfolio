@@ -15,7 +15,6 @@
     <script src="css/bootstrap/js/bootstrap.bundle.min.js"></script>
     <link rel="stylesheet" href="css/estilos.css">
 </head>
-<body>
 <body id="index">
     <header class="container">
         <nav class="navbar navbar-expand-md  mb-4">
