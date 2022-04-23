@@ -153,7 +153,7 @@
             </div>
             <div class="row shadow bg-white rounded"> <!-- "shadow bg-white rounded" es boostrap para darle el bordeado gris-->
                 <div class="col-2 p-4 my-auto d-none d-sm-block">
-                    <img src="../portfolio/images/trabajo-studios/Enfermería.jpg" alt="" class="img-fluid">
+                    <img src="../portfolio/images/incono/enfermeria.png" alt="" class="img-fluid">
                 </div>    
                 <div class="col-12- col-sm-10 p-3">
                     <h3>Enfermero Profesional</h3>
@@ -163,23 +163,33 @@
                 </div>
                 <div class="row">
                     <div class="col-2 p-4 my-auto d-none d-sm-block">
-                        <img src="../portfolio/images/trabajo-studios/Enfermería.jpg" alt="" class="img-fluid">
+                        <img src="../portfolio/images/incono/reparador de pc.png" alt="" class="img-fluid">
                     </div>    
                     <div class="col-12- col-sm-10 p-3">
-                        <h3>Enfermero Profesional</h3>
-                        <h4>Estadio Unico La Plata</h4>
-                        <h5>Enero-2021-Actualidad</h5>
-                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequatur, non id ea similique tenetur dolorem voluptatibus delectus vero esse ratione iste tempore, maiores eius deleniti, error a aspernatur recusandae asperiores.</p>
+                        <h3>Técnico reparador de Pc</h3>
+                        <h4>La Plata</h4>
+                        <h5>Marzo-2017-Actualidad</h5>
+                        <p>Reparador de pc, asistencia al usuario y personal, mantenimiento de redes informáticas y servidores locales.</p>
                     </div>
                 <div class="row">
                     <div class="col-2 p-4 my-auto d-none d-sm-block">
-                        <img src="../portfolio/images/trabajo-studios/Enfermería.jpg" alt="" class="img-fluid">
+                        <img src="../portfolio/images/incono/tecno.png" alt="" class="img-fluid">
                     </div>    
                     <div class="col-12- col-sm-10 p-3">
-                        <h3>Enfermero Profesional</h3>
-                        <h4>Estadio Unico La Plata</h4>
-                        <h5>Enero-2021-Actualidad</h5>
-                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequatur, non id ea similique tenetur dolorem voluptatibus delectus vero esse ratione iste tempore, maiores eius deleniti, error a aspernatur recusandae asperiores.</p>
+                        <h3>Nahuel Tecno</h3>
+                        <h4>La Plata</h4>
+                        <h5>Marzo-2021-Actualidad</h5>
+                        <p>Venta de tecnología, asistencia al usuario, reparación de celulares/pc y mantenimiento</p>
+                    </div>
+                <div class="row">
+                    <div class="col-2 p-4 my-auto d-none d-sm-block">
+                        <img src="../portfolio/images/incono/almacen.png" alt="" class="img-fluid">
+                    </div>    
+                    <div class="col-12- col-sm-10 p-3">
+                        <h3>Distribuidora Almacen Teresa</h3>
+                        <h4>La Plata, Romero</h4>
+                        <h5>Junio-2018-Diciembre-2020</h5>
+                        <p>Encargado del area de ventas, gestión de empleados y proveedores</p>
                     </div>
             </div>            
         </section>

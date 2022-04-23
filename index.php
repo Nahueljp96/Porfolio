@@ -50,7 +50,7 @@
     <main id="inicio" class="container">
         <div class="row">
             <div class="col-12 div-pc text-center">
-                <a href="proyectos.php"><img src="../portfolio/images/incono/Untitled.svg" class="pc img-fluid" alt=""></a>
+                <a href="proyectos.php"><img src="../portfolio/images/incono/pcfondo.svg" class="pc img-fluid" alt=""></a>
             </div>
             <div class="col-12 col-sm-6 my-4 mt-sm-5 text-center offset-sm-3 mb-3">
                 <div class="input-home">
