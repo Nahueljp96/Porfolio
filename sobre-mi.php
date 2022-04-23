@@ -159,7 +159,7 @@
                     <h3>Enfermero Profesional</h3>
                     <h4>Estadio Unico La Plata</h4>
                     <h5>Enero-2021-Actualidad</h5>
-                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequatur, non id ea similique tenetur dolorem voluptatibus delectus vero esse ratione iste tempore, maiores eius deleniti, error a aspernatur recusandae asperiores.</p>
+                    <p>Enfermero vacunador covid-19, asistencia de personas y asesoramiento de las mismas respecto a cuidados, signos y sintomas de las vacunas covid-19.</p>
                 </div>
                 <div class="row">
                     <div class="col-2 p-4 my-auto d-none d-sm-block">
@@ -194,43 +194,85 @@
                 <div class="col-12 col-sm-6">
                     <div class="row">
                         <div class="col-2 py-3 my-auto d-none d-sm-block">
-                            <img src="images/ean.jpg" class="img-fluid baw" title="depcsuite">
+                            <img src="../portfolio/images/trabajo-studios/logo-depcsuite.svg" class="img-fluid" title="depcsuite">
                         </div>
                         <div class="col-12- col-sm-10 p-3">
-                            <h3>Licenciado en Tecnología</h3>
-                            <h4>Escuela Argentina de Negocios</h4>
-                            <h5>2015 – 2020</h5>
-                            <p>http://www.ean.edu.ar/</p>
+                            <h3>Programador Web Full Stack</h3>
+                            <h4>DePcsuite Academia de programación</h4>
+                            <h5>2022</h5>
+                            <p>https://depcsuite.com/?v=d72a48a8ebd2</p>
                         </div>
                     </div>
                 </div>    
                 <div class="col-12 col-sm-6">
                     <div class="row">
                         <div class="col-2 py-3 my-auto d-none d-sm-block">
-                            <img src="images/ean.jpg" class="img-fluid baw" title="depcsuite">
+                            <img src="../portfolio/images/trabajo-studios/hospital.png" class="img-fluid" title="Hospital">
                         </div>
                         <div class="col-12- col-sm-10 p-3">
-                            <h3>Licenciado en Tecnología</h3>
-                            <h4>Escuela Argentina de Negocios</h4>
-                            <h5>2015 – 2020</h5>
-                            <p>http://www.ean.edu.ar/</p>
-                        </div>
-                    </div>
-                </div>    
-                <div class="col-12 col-sm-6">
-                    <div class="row">
-                        <div class="col-2 py-3 my-auto d-none d-sm-block">
-                            <img src="images/ean.jpg" class="img-fluid baw" title="depcsuite">
-                        </div>
-                        <div class="col-12- col-sm-10 p-3">
-                            <h3>Licenciado en Tecnología</h3>
-                            <h4>Escuela Argentina de Negocios</h4>
-                            <h5>2015 – 2020</h5>
-                            <p>http://www.ean.edu.ar/</p>
+                            <h3>Enfermero Profesional</h3>
+                            <h4>Hospital Dr. Alejandro Korn</h4>
+                            <h5>2017-2020</h5>
+                            <p>https://www.gba.gob.ar/content/regi%C3%B3n_sanitaria_xi_19</p>
                         </div>
                     </div>
                 </div>    
         </section>  
+        <section id="formacion" class="container mb-5">
+            <div class="row">
+                <div class="col-12 pt-5 pb-4">
+                    <h2><i class="fas fa-graduation-cap"></i> Cursos de desarrollo profesional</h2>
+                </div>
+            </div>
+            <div class="row shadow bg-white rounded p-1">
+                <div class="col-12 col-sm-6">
+                    <div class="row">
+                        <div class="col-2 py-3 my-auto d-none d-sm-block">
+                            <img src="../portfolio/images/trabajo-studios/sicos.png" class="img-fluid" title="Sicos">
+                        </div>
+                        <div class="col-12- col-sm-10 p-3">
+                            <h3>Diplomatura en Ténico Reparador de Pc</h3>
+                            <h4>Sicos Informática</h4>
+                            <h5>Expedición Febrero:2021</h5>
+                            <p></p>
+                        </div>
+                    </div>
+                </div>
+            </div>    
+        </section>
+        <section id="idiomas">   <!-- Cajasde idioma y hobbie, junto al ID "idiomas" propiedad card y boostrap para darle color y forma-->
+            <div class="container">
+                <div class="row py-5 mx-0">
+                    <div class="col-sm-6 col-12 pb-3 pb-sm-0">
+                        <div class="row mr-sm-1 bg-white card-idioma shadow me-sm-1">
+                            <div class="col-4 text-center card">
+                                <i class="fas fa-comment-alt"></i>
+                            </div>
+                            <div class="col-8 p-5">
+                                <h2>IDIOMAS</h2>
+                                <ul>
+                                    <li>ESPAÑOL - Nativo</li>
+                                    <li>INGLÉS -Básico</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-12">
+                        <div class="row ml-sm-2 bg-white card-idioma shadow ms-sm-1">
+                            <div class="col-4 text-center card">
+                                <i class="fas fa-star"></i>
+                            </div>
+                            <div class="col-8 p-5">
+                                <h2>HOBBIES</h2>
+                                <ul>
+                                    <li>Taekwondo</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>        
     </main>
     <footer class="container mt-5">
         <div class="row">
