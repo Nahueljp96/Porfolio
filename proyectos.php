@@ -13,33 +13,33 @@
 </head>
 <body id="proyectos">
     <header class="container">
-        <nav class="navbar navbar-expand-md  mb-4"> <!-- menu armado y estilo de boostrap-->
-            <div class="container-fluid">
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse"
-                    aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="collapse navbar-collapse" id="navbarCollapse">
-                    <ul class="navbar-nav me-auto mb-2 mb-md-0">
-                        <li class="nav-item">
-                            <a class="nav-link py-1 px-3 px-sm-4" aria-current="page" href="index.php">Inicio</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link py-1 px-3 px-sm-4" href="sobre-mi.php">Sobre Mí</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link py-1 px-3 px-sm-4 active" href="proyectos.php">Proyectos</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link py-1 px-3 px-sm-4" href="contacto.php">Contacto</a>
-                        </li>
-                    </ul>
-                    <div class="d-flex">
-                        <a class="btn btn-rojo px-4">Descargar mi CV <i class="fa-solid fa-file-arrow-down"></i></a>
+            <nav class="navbar navbar-expand-md  mb-4">
+                <div class="container-fluid">
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse"
+                        aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+                        <i class="fa-solid fa-bars"></i>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarCollapse">
+                        <ul class="navbar-nav me-auto mb-2 mb-md-0">
+                            <li class="nav-item">
+                                <a class="nav-link py-1 px-3 px-sm-4" aria-current="page" href="index.php">Inicio</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link py-1 px-3 px-sm-4" href="sobre-mi.php">Sobre Mí</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link py-1 px-3 px-sm-4 active" href="proyectos.php">Proyectos</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link py-1 px-3 px-sm-4" href="contacto.php">Contacto</a>
+                            </li>
+                        </ul>
+                        <div class="d-flex">
+                            <a class="btn btn-rojo px-4">Descargar mi CV <i class="fa-solid fa-file-arrow-down"></i></a>
+                        </div>
                     </div>
                 </div>
-            </div>
-        </nav>
+            </nav>
     </header>
     <main class="container">
         <div class="row">
@@ -101,16 +101,14 @@
         </div>
 
     </main>
-    <footer class="container mt-5"> <!-- Falta colocar los links de git y linkedin una vez perfeccionados-->
+   <footer class="container mt-5"> <!-- Falta colocar los links de git y linkedin una vez perfeccionados-->
         <div class="row">
             <div class="col-3">
                 <i class="fa-brands fa-github"></i>
                 <i class="fa-brands fa-linkedin-in"></i>
             </div>
-            <div class="col-3 lit">Sponsor <a href="https://depcsuite.com">DePc Suite</a></div>
+            <div class="col-3 ">Sponsor <a href="https://depcsuite.com">DePcSuite</a></div>
             <div class="col-3" class="lit"> <a href="mailto:nahuel5831@gmail.com">nahuel5831@gmail.com</a></div>
-            
-
         </div>
 
     </footer>

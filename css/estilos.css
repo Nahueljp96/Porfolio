@@ -86,7 +86,7 @@ nav .nav-link{
 }
 nav .active{
     border: 1px solid #E20000;
-    border-radius: 25px;
+    border-radius: 20px;
 
 }
 h1{
@@ -102,7 +102,7 @@ textarea{
 }
 footer,footer a{
     color:white;
-    font-weight: 100;
+    font-weight: 800;
     
 }
 #sobre-mi footer a {
@@ -116,6 +116,9 @@ footer,footer a{
 }
 .form-control{
     border-radius: 14px;
+}
+.lit{
+    color:#E20000
 }
 .proyecto{
     border: 1px solid #eee;
@@ -232,8 +235,22 @@ footer,footer a{
     font-size:32px;
     color:white
 }
+
 @media (max-width: 750px){
     #contacto{
+        background-image: url('../images/fondo-proyectos.png');
+        background-repeat: no-repeat;
+        background-size: 100%;
+    }
+    #sobre-mi{
+        background-image: url(../proyectos.php);
+        background-repeat: no-repeat;
+        background-size: 100%;
+    }
+    #sobre-mi nav{
+        color:black
+    }
+    #index{
         background-image: url('../images/fondo-proyectos.png');
         background-repeat: no-repeat;
         background-size: 100%;

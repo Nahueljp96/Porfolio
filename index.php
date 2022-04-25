@@ -52,10 +52,12 @@
             <div class="col-12 div-pc text-center">
                 <a href="proyectos.php"><img src="../portfolio/images/incono/pcfondo.svg" class="pc img-fluid" alt=""></a>
             </div>
-            <div class="col-12 col-sm-6 my-4 mt-sm-5 text-center offset-sm-3 mb-3">
-                <div class="input-home">
-                    <p>Bienvenid@s a mi página personal</p>
-                </div>
+            <div class="row">
+                <div class="col-12 col-sm-6 my-4 mt-sm-5 text-center offset-sm-3 mb-3">
+                    <div class="input-home">
+                        <p class="p-1">Bienvenid@s a mi página personal</p>
+                    </div>
+                </div>    
             </div>
             <div class="row">
                 <div class="col-12 text-center">
@@ -74,10 +76,8 @@
                 <i class="fa-brands fa-github"></i>
                 <i class="fa-brands fa-linkedin-in"></i>
             </div>
-            <div class="col-3 lit">Sponsor <a href="https://depcsuite.com">DePc Suite</a></div>
+            <div class="col-3 ">Sponsor <a href="https://depcsuite.com">DePcSuite</a></div>
             <div class="col-3" class="lit"> <a href="mailto:nahuel5831@gmail.com">nahuel5831@gmail.com</a></div>
-            
-
         </div>
 
     </footer>

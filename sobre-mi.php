@@ -21,12 +21,13 @@
     <header class="container">
         <nav class="navbar navbar-expand-md  mb-4">
             <div class="container-fluid">
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse"
+                    aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+                    <i class="fa-solid fa-bars"></i>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarCollapse">
                     <ul class="navbar-nav me-auto mb-2 mb-md-0">
-                        <li class="nav-item">
+                        <li class="nav-item ps-3">
                             <a class="nav-link py-1 px-3 px-sm-4" aria-current="page" href="index.php">Inicio</a>
                         </li>
                         <li class="nav-item">
@@ -290,8 +291,8 @@
                 <i class="fa-brands fa-github"></i>
                 <i class="fa-brands fa-linkedin-in"></i>
             </div>
-            <div class="col-3 lit">Sponsor <a href="https://depcsuite.com"class="link-info">DePc Suite</a></div>
-            <div class="col-3" class="lit"> <a href="mailto:nahuel5831@gmail.com">nahuel5831@gmail.com</a></div>
+            <div class="col-3 lit">Sponsor <a href="https://depcsuite.com"class="">DePcSuite</a></div>
+            <div class="col-3 lit"> <a href="mailto:nahuel5831@gmail.com">nahuel5831@gmail.com</a></div>
         </div>
     </footer>
     <div class="whatsapp pt-3 pb-3 px-3">
